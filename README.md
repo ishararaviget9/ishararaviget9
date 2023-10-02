@@ -45,11 +45,10 @@ Armed with statistical prowess and a knack for pattern recognition, I unravel th
                     </p>
 
                     
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
+<div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishararaviget9&layout=compact&theme=nightowl" alt=ishararaviget9 />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishararaviget9&theme=radical" alt="ishararaviget9" /></p>
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ishararaviget9">
