@@ -4,7 +4,31 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, System Analyst, Quality Assurance Engineer, Computer Scientist, UI Engineer, Big Data Engineer, Database Engineer, Web Designer, Data Scientist
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A passionate tech enthusiast with a multifaceted career spanning several pivotal roles in the technology landscape. With a relentless curiosity and a penchant for innovation, I've embarked on a journey to explore, create, and optimize in the world of software and data. Here's a glimpse into my diverse skill set and contributions across various domains:<br> Software Engineer 🚀 -<br> I thrive in the world of coding, where I craft elegant, scalable, and efficient software solutions. My code serves as the backbone of digital experiences, and I love solving complex problems with lines of logic.<br> 🌐 Full Stack Developer:<br> As a Full Stack Developer, I thrive on creating end-to-end solutions. I'm equally at home designing sleek user interfaces as I am crafting robust back-end systems. My code is not just functional; it's elegant and efficient.<br> System Analyst 📈 -<br> Bridging the gap between technology and business, I have a knack for dissecting intricate processes, identifying opportunities, and designing systems that empower organizations to thrive.<br> Computer Scientist 🧬 -<br> My quest for knowledge leads me down the path of exploration. As a computer scientist, I delve deep into the theoretical underpinnings of technology, researching algorithms, and conceptualizing computational models that shape the future.<br> UI Engineer 🌟 -<br> With a keen eye for aesthetics and a passion for user experience, I design interfaces that captivate and delight. My creations bridge the gap between functionality and beauty.<br> Database Engineer 💾 -<br> Data security and efficiency are paramount in my work as a database engineer. I architect and manage data storage systems that keep information safe, accessible, and performant.<br> Web Designer 🎨 -<br> My creative side comes to life as a web designer. I transform ideas into visually stunning and user-friendly web experiences, aligning form and function seamlessly.<br> Data Scientist 📈 -<br> Armed with statistical prowess and a knack for pattern recognition, I unravel the secrets hidden within data. My data-driven insights empower organizations to make informed decisions and chart their course to success.
+A passionate tech enthusiast with a multifaceted career spanning several pivotal roles in the technology landscape. With a relentless curiosity and a penchant for innovation, I've embarked on a journey to explore, create, and optimize in the world of software and data. Here's a glimpse into my diverse skill set and contributions across various domains:
+
+Software Engineer 🚀 -
+I thrive in the world of coding, where I craft elegant, scalable, and efficient software solutions. My code serves as the backbone of digital experiences, and I love solving complex problems with lines of logic. 
+
+🌐 Full Stack Developer -
+As a Full Stack Developer, I thrive on creating end-to-end solutions. I'm equally at home designing sleek user interfaces as I am crafting robust back-end systems. My code is not just functional; it's elegant and efficient.
+
+System Analyst 📈 -
+Bridging the gap between technology and business, I have a knack for dissecting intricate processes, identifying opportunities, and designing systems that empower organizations to thrive.
+
+Computer Scientist 🧬 -
+My quest for knowledge leads me down the path of exploration. As a computer scientist, I delve deep into the theoretical underpinnings of technology, researching algorithms, and conceptualizing computational models that shape the future.
+
+UI Engineer 🌟 -
+With a keen eye for aesthetics and a passion for user experience, I design interfaces that captivate and delight. My creations bridge the gap between functionality and beauty.
+
+Database Engineer 💾 -
+Data security and efficiency are paramount in my work as a database engineer. I architect and manage data storage systems that keep information safe, accessible, and performant.
+
+Web Designer 🎨 -
+My creative side comes to life as a web designer. I transform ideas into visually stunning and user-friendly web experiences, aligning form and function seamlessly.
+
+Data Scientist 📈 -
+Armed with statistical prowess and a knack for pattern recognition, I unravel the secrets hidden within data. My data-driven insights empower organizations to make informed decisions and chart their course to success.
 
 *   🌍  I'm based in Sri Lanka
 *   🖥️  See my portfolio at [MyProfile](http://www.example.ac.uk/)
