@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/ishararaviget9/ishararaviget9/blob/main/profileImg.png?raw=true)](https://github.com/ishararaviget9)
 Hi ✌️, I'm Ishara Siriwardhana
 ===========================================================================================================================================
-![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake-dark.svg)
 Software Engineer, System Analyst, Quality Assurance Engineer, Computer Scientist, UI Engineer, Big Data Engineer, Database Engineer, Web Designer, Data Scientist
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,8 +37,6 @@ Armed with statistical prowess and a knack for pattern recognition, I unravel th
 *   🧠  I'm learning Plymouth University
 *   🤝  I'm open to collaborating on example1, example2
 *   ⚡  get1, get2
-
-![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake.svg)
 
 ### Skills
 
