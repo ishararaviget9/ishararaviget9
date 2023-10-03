@@ -38,7 +38,7 @@ Armed with statistical prowess and a knack for pattern recognition, I unravel th
 *   🤝  I'm open to collaborating on example1, example2
 *   ⚡  get1, get2
 
-![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake.svg)
 
 ### Skills
 
