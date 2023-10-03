@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ishararaviget9/ishararaviget9/blob/[branch]/image.jpg?raw=true)]
+[![MasterHead](https://github.com/ishararaviget9/ishararaviget9/blob/main/profileImg.png?raw=true)](https://github.com/ishararaviget9)
 Hi ✌️, I'm Ishara Siriwardhana
 ===========================================================================================================================================
 
