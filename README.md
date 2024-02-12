@@ -32,7 +32,7 @@ My creative side comes to life as a web designer. I transform ideas into visuall
 Armed with statistical prowess and a knack for pattern recognition, I unravel the secrets hidden within data. My data-driven insights empower organizations to make informed decisions and chart their course to success.
 
 *   🌍  I'm based in Sri Lanka
-*   🖥️  See my portfolio at [MyProfile](http://www.example.ac.uk/)
+*   🖥️  See my portfolio at [MyProfile](https://ishararaviget9.github.io/myportfolio/)
 *   ✉️  You can contact me at [isharasiriwardhanaget99@gmail.com](mailto:isharasiriwardhanaget99@gmail.com)
 *   🧠  I'm learning Plymouth University
 *   🤝  I'm open to collaborating on example1, example2
