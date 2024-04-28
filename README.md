@@ -1,8 +1,7 @@
-[![MasterHead](https://github.com/ishararaviget9/ishararaviget9/blob/main/image(19).png?raw=true)](https://github.com/ishararaviget9)
 
 Hello Guys ✌️, 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![MasterHead](https://github.com/ishararaviget9/ishararaviget9/blob/main/image(19).png?raw=true)](https://github.com/ishararaviget9)
 
 ![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -33,13 +32,6 @@ My creative side comes to life as a web designer. I transform ideas into visuall
 
 #### 📈 Data Scientist :
 Armed with statistical prowess and a knack for pattern recognition, I unravel the secrets hidden within data. My data-driven insights empower organizations to make informed decisions and chart their course to success.
-
-*   🌍  I'm based in Sri Lanka
-*   🖥️  See my portfolio at [MyProfile](https://ishararaviget9.github.io/myportfolio/)
-*   ✉️  You can contact me at [isharasiriwardhanaget99@gmail.com](mailto:isharasiriwardhanaget99@gmail.com)
-*   🧠  I'm learning Plymouth University
-*   🤝  I'm open to collaborating on example1, example2
-*   ⚡  get1, get2
 
 ### Skills
 
