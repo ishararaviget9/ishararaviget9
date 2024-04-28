@@ -6,7 +6,6 @@ Hello ✌️, I'm Ishara Siriwardhana
 
 ![snake gif](https://github.com/ishararaviget9/ishararaviget9/blob/output/github-contribution-grid-snake-dark.svg)
 
-Software Engineer, System Analyst, Quality Assurance Engineer, Computer Scientist, UI Engineer, Big Data Engineer, Database Engineer, Web Designer, Data Scientist
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### A passionate tech enthusiast with a multifaceted career spanning several pivotal roles in the technology landscape. With a relentless curiosity and a penchant for innovation, I've embarked on a journey to explore, create, and optimize in the world of software and data. Here's a glimpse into my diverse skill set and contributions across various domains:
